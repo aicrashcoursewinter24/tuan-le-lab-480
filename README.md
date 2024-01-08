@@ -1,5 +1,6 @@
 AI Crash Cookiecutter
 ==============================
+Tuan Le
 
 Cookiecutter Project in CSC-480
 
