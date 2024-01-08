@@ -1,4 +1,4 @@
-ai-lab-day-1
+AI Crash Cookiecutter
 ==============================
 
 Cookiecutter Project in CSC-480
